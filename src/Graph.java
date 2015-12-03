@@ -63,8 +63,6 @@ public class Graph {
     private Bag<Integer>[] adj;
 
 
-
-
     /**
      * Initializes an empty graph with <tt>V</tt> vertices and 0 edges.
      * param V the number of vertices
